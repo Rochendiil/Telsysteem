@@ -1,0 +1,13 @@
+c:\users\luuk\documents\visual studio 2015\Projects\TelSysteem\TelSysteem\bin\Debug\TelSysteem.exe.config
+C:\Users\Luuk\Documents\Visual Studio 2015\Projects\TelSysteem\TelSysteem\bin\Debug\Database1.mdf
+C:\Users\Luuk\Documents\Visual Studio 2015\Projects\TelSysteem\TelSysteem\bin\Debug\Database1_log.ldf
+C:\Users\Luuk\Documents\Visual Studio 2015\Projects\TelSysteem\TelSysteem\bin\Debug\TelSysteem.exe
+C:\Users\Luuk\Documents\Visual Studio 2015\Projects\TelSysteem\TelSysteem\bin\Debug\TelSysteem.pdb
+C:\Users\Luuk\Documents\Visual Studio 2015\Projects\TelSysteem\TelSysteem\obj\Debug\TelSysteem.csprojResolveAssemblyReference.cache
+C:\Users\Luuk\Documents\Visual Studio 2015\Projects\TelSysteem\TelSysteem\obj\Debug\TelSysteem.Form1.resources
+C:\Users\Luuk\Documents\Visual Studio 2015\Projects\TelSysteem\TelSysteem\obj\Debug\TelSysteem.Properties.Resources.resources
+C:\Users\Luuk\Documents\Visual Studio 2015\Projects\TelSysteem\TelSysteem\obj\Debug\TelSysteem.csproj.GenerateResource.Cache
+C:\Users\Luuk\Documents\Visual Studio 2015\Projects\TelSysteem\TelSysteem\obj\Debug\TelSysteem.exe
+C:\Users\Luuk\Documents\Visual Studio 2015\Projects\TelSysteem\TelSysteem\obj\Debug\TelSysteem.pdb
+C:\Users\Luuk\Documents\Visual Studio 2015\Projects\TelSysteem\TelSysteem\obj\Debug\TelSysteem.Form2.resources
+C:\Users\Luuk\Documents\Visual Studio 2015\Projects\TelSysteem\TelSysteem\obj\Debug\TelSysteem.Form3.resources
